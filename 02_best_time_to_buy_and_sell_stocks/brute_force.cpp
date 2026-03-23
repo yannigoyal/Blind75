@@ -1,0 +1,18 @@
+// ============================================
+// BEST TIME TO BUY AND SELL STOCK - BRUTE FORCE
+// TC: O(n²)  SC: O(1)
+// ============================================
+
+int maxProfit(vector<int>& prices) {
+    int n = prices.size();
+    int maxProfit = 0;
+
+    for (int i = 0; i < n; i++) {
+        for (int j = i + 1; j < n; j++) {
+            int profit = prices[j] - prices[i];
+            maxProfit = max(maxProfit, profit);
+        }
+    }
+
+    return maxProfit;
+}
