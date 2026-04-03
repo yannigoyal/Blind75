@@ -6,7 +6,7 @@ Space Optimized:
 - We only store last two values (prev1, prev2)
 - Each step is sum of previous two (like Fibonacci)
 */
-
+ 
 int climbStairs(int n) {
     if (n == 0 || n == 1) return 1;
 
