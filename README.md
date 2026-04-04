@@ -6,7 +6,7 @@ Each problem is solved with a clear progression from naive to optimal, with full
 
 <br>
 
-![Progress](https://img.shields.io/badge/Solved-16%20%2F%2075-2196F3?style=flat-square)
+![Progress](https://img.shields.io/badge/Solved-17%20%2F%2075-2196F3?style=flat-square)
 ![Language](https://img.shields.io/badge/Language-C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Reference](https://img.shields.io/badge/Reference-TakeUForward-orange?style=flat-square)
 
@@ -64,7 +64,7 @@ XX_problem_name/
 | # | Problem | LC # | Difficulty | Solution |
 |---|---------|------|------------|----------|
 | 16 | [Climbing Stairs](./16_climbing_stairs/) | [#70](https://leetcode.com/problems/climbing-stairs/) | 🟢 Easy | ✅ |
-| — | Coin Change | [#322](https://leetcode.com/problems/coin-change/) | 🟡 Medium | ⬜ |
+| 17 | [Coin Change II](./17_Coin_change_II) | [#518](https://leetcode.com/problems/coin-change-ii/description/) | 🟡 Medium | ✅|
 | — | Longest Increasing Subsequence | [#300](https://leetcode.com/problems/longest-increasing-subsequence/) | 🟡 Medium | ⬜ |
 | — | Longest Common Subsequence | [#1143](https://leetcode.com/problems/longest-common-subsequence/) | 🟡 Medium | ⬜ |
 | — | Word Break | [#139](https://leetcode.com/problems/word-break/) | 🟡 Medium | ⬜ |
@@ -182,7 +182,7 @@ XX_problem_name/
 |----------|------|-------|
 | Array | 10 | 10 |
 | Bit Manipulation | 5 | 5 |
-| Dynamic Programming | 1 | 11 |
+| Dynamic Programming | 2 | 11 |
 | Linked List | 0 | 6 |
 | Tree | 0 | 13 |
 | Graph | 0 | 8 |
