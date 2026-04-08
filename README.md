@@ -6,7 +6,7 @@ Each problem is solved with a clear progression from naive to optimal, with full
 
 <br>
 
-![Progress](https://img.shields.io/badge/Solved-20%20%2F%2075-2196F3?style=flat-square)
+![Progress](https://img.shields.io/badge/Solved-21%20%2F%2075-2196F3?style=flat-square)
 ![Language](https://img.shields.io/badge/Language-C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Reference](https://img.shields.io/badge/Reference-TakeUForward-orange?style=flat-square)
 
@@ -68,7 +68,7 @@ XX_problem_name/
 | 18 | [Longest Increasing Subsequence](./18_Longest_Increasing_Subsequence) | [#300](https://leetcode.com/problems/longest-increasing-subsequence/) | 🟡 Medium | ✅ |
 | 19 | [Longest Common Subsequence](./19_longest_common_subsequence) | [#1143](https://leetcode.com/problems/longest-common-subsequence/) | 🟡 Medium | ✅ |
 | 20 | [Word Break](./20_word_break) | [#139](https://leetcode.com/problems/word-break/) | 🟡 Medium | ✅ |
-| — | Combination Sum IV | [#377](https://leetcode.com/problems/combination-sum-iv/) | 🟡 Medium | ⬜ |
+| 21 | [Combination Sum](./21_combination_sum) | [#39](https://leetcode.com/problems/combination-sum/description/) | 🟡 Medium | ✅ |
 | — | House Robber | [#198](https://leetcode.com/problems/house-robber/) | 🟡 Medium | ⬜ |
 | — | House Robber II | [#213](https://leetcode.com/problems/house-robber-ii/) | 🟡 Medium | ⬜ |
 | — | Decode Ways | [#91](https://leetcode.com/problems/decode-ways/) | 🟡 Medium | ⬜ |
@@ -182,7 +182,7 @@ XX_problem_name/
 |----------|------|-------|
 | Array | 10 | 10 |
 | Bit Manipulation | 5 | 5 |
-| Dynamic Programming | 5 | 11 |
+| Dynamic Programming | 6 | 11 |
 | Linked List | 0 | 6 |
 | Tree | 0 | 13 |
 | Graph | 0 | 8 |
@@ -190,7 +190,7 @@ XX_problem_name/
 | Interval | 0 | 6 |
 | Matrix | 0 | 4 |
 | Heap | 0 | 3 |
-| **Total** | **20** | **75** |
+| **Total** | **21** | **75** |
 
 ---
 
