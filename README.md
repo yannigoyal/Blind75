@@ -6,7 +6,7 @@ Each problem is solved with a clear progression from naive to optimal, with full
 
 <br>
 
-![Progress](https://img.shields.io/badge/Solved-22%20%2F%2075-2196F3?style=flat-square)
+![Progress](https://img.shields.io/badge/Solved-23%20%2F%2075-2196F3?style=flat-square)
 ![Language](https://img.shields.io/badge/Language-C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Reference](https://img.shields.io/badge/Reference-TakeUForward-orange?style=flat-square)
 
@@ -70,7 +70,7 @@ XX_problem_name/
 | 20 | [Word Break](./20_word_break) | [#139](https://leetcode.com/problems/word-break/) | 🟡 Medium | ✅ |
 | 21 | [Combination Sum](./21_combination_sum) | [#39](https://leetcode.com/problems/combination-sum/description/) | 🟡 Medium | ✅ |
 | 22 | [House Robber](./22_house_robber) | [#198](https://leetcode.com/problems/house-robber/) | 🟡 Medium | ✅ |
-| — | House Robber II | [#213](https://leetcode.com/problems/house-robber-ii/) | 🟡 Medium | ⬜ |
+| 23 | [House Robber II](./23_House_Robber_II) | [#213](https://leetcode.com/problems/house-robber-ii/) | 🟡 Medium | ✅ |
 | — | Decode Ways | [#91](https://leetcode.com/problems/decode-ways/) | 🟡 Medium | ⬜ |
 | — | Unique Paths | [#62](https://leetcode.com/problems/unique-paths/) | 🟡 Medium | ⬜ |
 | — | Jump Game | [#55](https://leetcode.com/problems/jump-game/) | 🟡 Medium | ⬜ |
@@ -182,7 +182,7 @@ XX_problem_name/
 |----------|------|-------|
 | Array | 10 | 10 |
 | Bit Manipulation | 5 | 5 |
-| Dynamic Programming | 7 | 11 |
+| Dynamic Programming | 8 | 11 |
 | Linked List | 0 | 6 |
 | Tree | 0 | 13 |
 | Graph | 0 | 8 |
@@ -190,7 +190,7 @@ XX_problem_name/
 | Interval | 0 | 6 |
 | Matrix | 0 | 4 |
 | Heap | 0 | 3 |
-| **Total** | **22** | **75** |
+| **Total** | **23** | **75** |
 
 ---
 
