@@ -1,7 +1,10 @@
 /*
 TC: O(nlogn), SC: O(1)
 
-We run a loop from 0 to n. For each number, we check its last bit (whether it is 1 or 0) using num % 2 and increment the count accordingly. Then we remove the last bit by dividing the number by 2. This continues until the number becomes 0. Finally, we store the count of set bits in the array.
+We run a loop from 0 to n. For each number, we check its last bit (whether it is 1 or 0) using num % 2 
+and increment the count accordingly.
+Then we remove the last bit by dividing the number by 2. 
+This continues until the number becomes 0. Finally, we store the count of set bits in the array.
 */
 
 
