@@ -6,7 +6,7 @@ Each problem is solved with a clear progression from naive to optimal, with full
 
 <br>
 
-![Progress](https://img.shields.io/badge/Solved-25%20%2F%2075-2196F3?style=flat-square)
+![Progress](https://img.shields.io/badge/Solved-26%20%2F%2075-2196F3?style=flat-square)
 ![Language](https://img.shields.io/badge/Language-C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Reference](https://img.shields.io/badge/Reference-TakeUForward-orange?style=flat-square)
 
@@ -73,7 +73,7 @@ XX_problem_name/
 | 23 | [House Robber II](./23_House_Robber_II) | [#213](https://leetcode.com/problems/house-robber-ii/) | 🟡 Medium | ✅ |
 | 24 | [Decode Ways](./24_decode_ways) | [#91](https://leetcode.com/problems/decode-ways/) | 🟡 Medium | ✅ |
 | 25 | [Unique Paths](./25_Unique_Paths) | [#62](https://leetcode.com/problems/unique-paths/) | 🟡 Medium | ✅ |
-| — | Jump Game | [#55](https://leetcode.com/problems/jump-game/) | 🟡 Medium | ⬜ |
+| 26 | [Jump Game](./26_Jump_Game) | [#55](https://leetcode.com/problems/jump-game/) | 🟡 Medium | ✅ |
 
 ---
 
@@ -182,7 +182,7 @@ XX_problem_name/
 |----------|------|-------|
 | Array | 10 | 10 |
 | Bit Manipulation | 5 | 5 |
-| Dynamic Programming | 10 | 11 |
+| Dynamic Programming | 11 | 11 |
 | Linked List | 0 | 6 |
 | Tree | 0 | 13 |
 | Graph | 0 | 8 |
@@ -190,7 +190,7 @@ XX_problem_name/
 | Interval | 0 | 6 |
 | Matrix | 0 | 4 |
 | Heap | 0 | 3 |
-| **Total** | **25** | **75** |
+| **Total** | **26** | **75** |
 
 ---
 
