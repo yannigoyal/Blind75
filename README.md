@@ -82,7 +82,7 @@ XX_problem_name/
 | # | Problem | LC # | Difficulty | Solution |
 |---|---------|------|------------|----------|
 | 27 | [Clone Graph](./27_Clone_Graph) | [#133](https://leetcode.com/problems/clone-graph/) | 🟡 Medium | ✅ |
-| 28 | [Course Schedule](./28_Course_Shedule) | [#207](https://leetcode.com/problems/course-schedule/) | 🟡 Medium | ⬜ |
+| 28 | [Course Schedule](./28_Course_Shedule) | [#207](https://leetcode.com/problems/course-schedule/) | 🟡 Medium | ✅ |
 | — | Pacific Atlantic Water Flow | [#417](https://leetcode.com/problems/pacific-atlantic-water-flow/) | 🟡 Medium | ⬜ |
 | — | Number of Islands | [#200](https://leetcode.com/problems/number-of-islands/) | 🟡 Medium | ⬜ |
 | — | Longest Consecutive Sequence | [#128](https://leetcode.com/problems/longest-consecutive-sequence/) | 🟡 Medium | ⬜ |
