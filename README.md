@@ -6,7 +6,7 @@ Each problem is solved with a clear progression from naive to optimal, with full
 
 <br>
 
-![Progress](https://img.shields.io/badge/Solved-31%20%2F%2075-2196F3?style=flat-square)
+![Progress](https://img.shields.io/badge/Solved-32%20%2F%2075-2196F3?style=flat-square)
 ![Language](https://img.shields.io/badge/Language-C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Reference](https://img.shields.io/badge/Reference-TakeUForward-orange?style=flat-square)
 
@@ -77,7 +77,7 @@ XX_problem_name/
 
 ---
 
-### 🕸️ Graph — 5 / 8
+### 🕸️ Graph — 6 / 8
 
 | # | Problem | LC # | Difficulty | Solution |
 |---|---------|------|------------|----------|
@@ -85,8 +85,8 @@ XX_problem_name/
 | 28 | [Course Schedule](./28_Course_Shedule) | [#207](https://leetcode.com/problems/course-schedule/) | 🟡 Medium | ✅ |
 | 29 | [Pacific Atlantic Water Flow](./29_Pacific_Atlantic_Water_Flow) | [#417](https://leetcode.com/problems/pacific-atlantic-water-flow/) | 🟡 Medium | ✅ |
 | 30 | [Number of Islands](./30_Number_of_Islands) | [#200](https://leetcode.com/problems/number-of-islands/) | 🟡 Medium | ✅ |
-| 31 | [Longest Consecutive Sequence](./Longest_Consecutive_Sequence) | [#128](https://leetcode.com/problems/longest-consecutive-sequence/) | 🟡 Medium | ✅ |
-| — | Alien Dictionary | [#269](https://leetcode.com/problems/alien-dictionary/) | 🔴 Hard | ⬜ |
+| 31 | [Longest Consecutive Sequence](./31_Longest_Consecutive_Sequence) | [#128](https://leetcode.com/problems/longest-consecutive-sequence/) | 🟡 Medium | ✅ |
+| 32 | [Alien Dictionary](./32_Alien_Dictionary) | [#269]([https://leetcode.com/problems/alien-dictionary/](https://www.geeksforgeeks.org/problems/alien-dictionary/1)) | 🔴 Hard | ✅ |
 | — | Graph Valid Tree | [#261](https://leetcode.com/problems/graph-valid-tree/) | 🟡 Medium | ⬜ |
 | — | Number of Connected Components | [#323](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/) | 🟡 Medium | ⬜ |
 
@@ -183,14 +183,14 @@ XX_problem_name/
 | Array | 10 | 10 |
 | Bit Manipulation | 5 | 5 |
 | Dynamic Programming | 11 | 11 |
-| Graph | 5 | 8 |
+| Graph | 6 | 8 |
 | Linked List | 0 | 6 |
 | Tree | 0 | 13 |
 | String | 0 | 10 |
 | Interval | 0 | 6 |
 | Matrix | 0 | 4 |
 | Heap | 0 | 3 |
-| **Total** | **31** | **75** |
+| **Total** | **32** | **75** |
 
 ---
 
