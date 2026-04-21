@@ -88,7 +88,7 @@ XX_problem_name/
 | 31 | [Longest Consecutive Sequence](./31_Longest_Consecutive_Sequence) | [#128](https://leetcode.com/problems/longest-consecutive-sequence/) | 🟡 Medium | ✅ |
 | 32 | [Alien Dictionary](./32_Alien_Dictionary) | [#269](https://www.geeksforgeeks.org/problems/alien-dictionary/1) | 🔴 Hard | ✅ |
 | 33 | [Graph Valid Tree](./33_Graph_Valid_Tree) | [#261](https://www.geeksforgeeks.org/problems/is-it-a-tree/1) | 🟡 Medium | ✅ |
-| 34 | [Number of Connected Components](./34_Connected_Components) | [#323](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/) | 🟡 Medium | ✅ |
+| 34 | [Count the Number of Complete Components](./34_Connected_Components) | [#323](https://leetcode.com/problems/count-the-number-of-complete-components/description/) | 🟡 Medium | ✅ |
 
 ---
 
