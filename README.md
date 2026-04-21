@@ -6,7 +6,7 @@ Each problem is solved with a clear progression from naive to optimal, with full
 
 <br>
 
-![Progress](https://img.shields.io/badge/Solved-33%20%2F%2075-2196F3?style=flat-square)
+![Progress](https://img.shields.io/badge/Solved-34%20%2F%2075-2196F3?style=flat-square)
 ![Language](https://img.shields.io/badge/Language-C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Reference](https://img.shields.io/badge/Reference-TakeUForward-orange?style=flat-square)
 
@@ -77,7 +77,7 @@ XX_problem_name/
 
 ---
 
-### 🕸️ Graph — 7 / 8
+### 🕸️ Graph — 8 / 8
 
 | # | Problem | LC # | Difficulty | Solution |
 |---|---------|------|------------|----------|
@@ -88,7 +88,7 @@ XX_problem_name/
 | 31 | [Longest Consecutive Sequence](./31_Longest_Consecutive_Sequence) | [#128](https://leetcode.com/problems/longest-consecutive-sequence/) | 🟡 Medium | ✅ |
 | 32 | [Alien Dictionary](./32_Alien_Dictionary) | [#269](https://www.geeksforgeeks.org/problems/alien-dictionary/1) | 🔴 Hard | ✅ |
 | 33 | [Graph Valid Tree](./33_Graph_Valid_Tree) | [#261](https://www.geeksforgeeks.org/problems/is-it-a-tree/1) | 🟡 Medium | ✅ |
-| — | Number of Connected Components | [#323](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/) | 🟡 Medium | ⬜ |
+| 34 | [Number of Connected Components](./34_Connected_Components) | [#323](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/) | 🟡 Medium | ✅ |
 
 ---
 
@@ -183,14 +183,14 @@ XX_problem_name/
 | Array | 10 | 10 |
 | Bit Manipulation | 5 | 5 |
 | Dynamic Programming | 11 | 11 |
-| Graph | 7 | 8 |
+| Graph | 8 | 8 |
 | Linked List | 0 | 6 |
 | Tree | 0 | 13 |
 | String | 0 | 10 |
 | Interval | 0 | 6 |
 | Matrix | 0 | 4 |
 | Heap | 0 | 3 |
-| **Total** | **33** | **75** |
+| **Total** | **34** | **75** |
 
 ---
 
