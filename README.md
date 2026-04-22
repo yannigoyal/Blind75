@@ -6,7 +6,7 @@ Each problem is solved with a clear progression from naive to optimal, with full
 
 <br>
 
-![Progress](https://img.shields.io/badge/Solved-34%20%2F%2075-2196F3?style=flat-square)
+![Progress](https://img.shields.io/badge/Solved-35%20%2F%2075-2196F3?style=flat-square)
 ![Language](https://img.shields.io/badge/Language-C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Reference](https://img.shields.io/badge/Reference-TakeUForward-orange?style=flat-square)
 
@@ -92,6 +92,19 @@ XX_problem_name/
 
 ---
 
+### 🔢 Interval — 1 / 6
+
+| # | Problem | LC # | Difficulty | Solution |
+|---|---------|------|------------|----------|
+| 35 | [Insert Interval](./35_Insert_Interval) | [#57](https://leetcode.com/problems/insert-interval/) | 🟡 Medium | ✅ |
+| — | Merge Intervals | [#56](https://leetcode.com/problems/merge-intervals/) | 🟡 Medium | ⬜ |
+| — | Non Overlapping Intervals | [#435](https://leetcode.com/problems/non-overlapping-intervals/) | 🟡 Medium | ⬜ |
+| — | Meeting Rooms | [#252](https://leetcode.com/problems/meeting-rooms/) | 🟢 Easy | ⬜ |
+| — | Meeting Rooms II | [#253](https://leetcode.com/problems/meeting-rooms-ii/) | 🟡 Medium | ⬜ |
+| — | Minimum Interval to Include Each Query | [#1851](https://leetcode.com/problems/minimum-interval-to-include-each-query/) | 🔴 Hard | ⬜ |
+
+---
+
 ### 🔗 Linked List — 0 / 6
 
 | # | Problem | LC # | Difficulty | Solution |
@@ -142,19 +155,6 @@ XX_problem_name/
 
 ---
 
-### 🔢 Interval — 0 / 6
-
-| # | Problem | LC # | Difficulty | Solution |
-|---|---------|------|------------|----------|
-| — | Insert Interval | [#57](https://leetcode.com/problems/insert-interval/) | 🟡 Medium | ⬜ |
-| — | Merge Intervals | [#56](https://leetcode.com/problems/merge-intervals/) | 🟡 Medium | ⬜ |
-| — | Non Overlapping Intervals | [#435](https://leetcode.com/problems/non-overlapping-intervals/) | 🟡 Medium | ⬜ |
-| — | Meeting Rooms | [#252](https://leetcode.com/problems/meeting-rooms/) | 🟢 Easy | ⬜ |
-| — | Meeting Rooms II | [#253](https://leetcode.com/problems/meeting-rooms-ii/) | 🟡 Medium | ⬜ |
-| — | Minimum Interval to Include Each Query | [#1851](https://leetcode.com/problems/minimum-interval-to-include-each-query/) | 🔴 Hard | ⬜ |
-
----
-
 ### 🧮 Matrix — 0 / 4
 
 | # | Problem | LC # | Difficulty | Solution |
@@ -184,13 +184,13 @@ XX_problem_name/
 | Bit Manipulation | 5 | 5 |
 | Dynamic Programming | 11 | 11 |
 | Graph | 8 | 8 |
+| Interval | 1 | 6 |
 | Linked List | 0 | 6 |
 | Tree | 0 | 13 |
 | String | 0 | 10 |
-| Interval | 0 | 6 |
 | Matrix | 0 | 4 |
 | Heap | 0 | 3 |
-| **Total** | **34** | **75** |
+| **Total** | **35** | **75** |
 
 ---
 
