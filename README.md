@@ -6,7 +6,7 @@ Each problem is solved with a clear progression from naive to optimal, with full
 
 <br>
 
-![Progress](https://img.shields.io/badge/Solved-37%20%2F%2075-2196F3?style=flat-square)
+![Progress](https://img.shields.io/badge/Solved-38%20%2F%2075-2196F3?style=flat-square)
 ![Language](https://img.shields.io/badge/Language-C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Reference](https://img.shields.io/badge/Reference-TakeUForward-orange?style=flat-square)
 
@@ -92,14 +92,14 @@ XX_problem_name/
 
 ---
 
-### 🔢 Interval — 3 / 6
+### 🔢 Interval — 4 / 6
 
 | # | Problem | LC # | Difficulty | Solution |
 |---|---------|------|------------|----------|
 | 35 | [Insert Interval](./35_Insert_Interval) | [#57](https://leetcode.com/problems/insert-interval/) | 🟡 Medium | ✅ |
 | 36 | [Merge Intervals](./36_Merge_Interval) | [#56](https://leetcode.com/problems/merge-intervals/) | 🟡 Medium | ✅ |
 | 37 | [Non Overlapping Intervals](./37_Non_overlapping_Intervals) | [#435](https://leetcode.com/problems/non-overlapping-intervals/) | 🟡 Medium | ✅ |
-| — | Meeting Rooms | [#252](https://leetcode.com/problems/meeting-rooms/) | 🟢 Easy | ⬜ |
+| 38 | [Meeting Rooms](./38_Find_Missing_and_Repeated_Values) | [#252](https://leetcode.com/problems/meeting-rooms/) | 🟢 Easy | ✅ |
 | — | Meeting Rooms II | [#253](https://leetcode.com/problems/meeting-rooms-ii/) | 🟡 Medium | ⬜ |
 | — | Minimum Interval to Include Each Query | [#1851](https://leetcode.com/problems/minimum-interval-to-include-each-query/) | 🔴 Hard | ⬜ |
 
@@ -184,13 +184,13 @@ XX_problem_name/
 | Bit Manipulation | 5 | 5 |
 | Dynamic Programming | 11 | 11 |
 | Graph | 8 | 8 |
-| Interval | 3 | 6 |
+| Interval | 4 | 6 |
 | Linked List | 0 | 6 |
 | Tree | 0 | 13 |
 | String | 0 | 10 |
 | Matrix | 0 | 4 |
 | Heap | 0 | 3 |
-| **Total** | **37** | **75** |
+| **Total** | **38** | **75** |
 
 ---
 
