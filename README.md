@@ -99,9 +99,9 @@ XX_problem_name/
 | 35 | [Insert Interval](./35_Insert_Interval) | [#57](https://leetcode.com/problems/insert-interval/) | 🟡 Medium | ✅ |
 | 36 | [Merge Intervals](./36_Merge_Interval) | [#56](https://leetcode.com/problems/merge-intervals/) | 🟡 Medium | ✅ |
 | 37 | [Non Overlapping Intervals](./37_Non_overlapping_Intervals) | [#435](https://leetcode.com/problems/non-overlapping-intervals/) | 🟡 Medium | ✅ |
-| 38 | [Meeting Rooms](./38_Find_Missing_and_Repeated_Values) | [#252](https://leetcode.com/problems/meeting-rooms/) | 🟢 Easy | ✅ |
-| — | Meeting Rooms II | [#253](https://leetcode.com/problems/meeting-rooms-ii/) | 🟡 Medium | ⬜ |
-| — | Minimum Interval to Include Each Query | [#1851](https://leetcode.com/problems/minimum-interval-to-include-each-query/) | 🔴 Hard | ⬜ |
+| 38 | [Find the repeating and missing number](./38_Find_Missing_and_Repeated_Values) | [#2965](https://leetcode.com/problems/find-missing-and-repeated-values/) | 🟢 Easy | ✅ |
+| — | Meeting Rooms I | [#253](https://www.geeksforgeeks.org/problems/attend-all-meetings/1) | 🟡 Medium | ⬜ |
+| — | Meeting Rooms II | [#253](https://leetcode.com/problems/meeting-rooms-ii/) | 🔴 Hard | ⬜ |
 
 ---
 
