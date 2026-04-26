@@ -6,7 +6,7 @@ Each problem is solved with a clear progression from naive to optimal, with full
 
 <br>
 
-![Progress](https://img.shields.io/badge/Solved-38%20%2F%2075-2196F3?style=flat-square)
+![Progress](https://img.shields.io/badge/Solved-40%20%2F%2075-2196F3?style=flat-square)
 ![Language](https://img.shields.io/badge/Language-C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Reference](https://img.shields.io/badge/Reference-TakeUForward-orange?style=flat-square)
 
@@ -92,7 +92,7 @@ XX_problem_name/
 
 ---
 
-### 🔢 Interval — 4 / 6
+### 🔢 Interval — 6 / 6
 
 | # | Problem | LC # | Difficulty | Solution |
 |---|---------|------|------------|----------|
@@ -100,8 +100,8 @@ XX_problem_name/
 | 36 | [Merge Intervals](./36_Merge_Interval) | [#56](https://leetcode.com/problems/merge-intervals/) | 🟡 Medium | ✅ |
 | 37 | [Non Overlapping Intervals](./37_Non_overlapping_Intervals) | [#435](https://leetcode.com/problems/non-overlapping-intervals/) | 🟡 Medium | ✅ |
 | 38 | [Find the repeating and missing number](./38_Find_Missing_and_Repeated_Values) | [#2965](https://leetcode.com/problems/find-missing-and-repeated-values/) | 🟢 Easy | ✅ |
-| — | Meeting Rooms I | [#253](https://www.geeksforgeeks.org/problems/attend-all-meetings/1) | 🟡 Medium | ⬜ |
-| — | Meeting Rooms II | [#253](https://leetcode.com/problems/meeting-rooms-ii/) | 🔴 Hard | ⬜ |
+| 39 | [Meeting Rooms I](./39_Meeting_Room) | [#253](https://www.geeksforgeeks.org/problems/attend-all-meetings/1) | 🟢 Easy | ✅ |
+| 40 | [Meeting Rooms II](./40_Meeting_Room_II) | [#254](https://www.geeksforgeeks.org/problems/attend-all-meetings-ii/1) | 🟡 Medium | ✅ |
 
 ---
 
@@ -184,13 +184,13 @@ XX_problem_name/
 | Bit Manipulation | 5 | 5 |
 | Dynamic Programming | 11 | 11 |
 | Graph | 8 | 8 |
-| Interval | 4 | 6 |
+| Interval | 6 | 6 |
 | Linked List | 0 | 6 |
 | Tree | 0 | 13 |
 | String | 0 | 10 |
 | Matrix | 0 | 4 |
 | Heap | 0 | 3 |
-| **Total** | **38** | **75** |
+| **Total** | **40** | **75** |
 
 ---
 
