@@ -6,7 +6,7 @@ Each problem is solved with a clear progression from naive to optimal, with full
 
 <br>
 
-![Progress](https://img.shields.io/badge/Solved-40%20%2F%2075-2196F3?style=flat-square)
+![Progress](https://img.shields.io/badge/Solved-42%20%2F%2075-2196F3?style=flat-square)
 ![Language](https://img.shields.io/badge/Language-C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Reference](https://img.shields.io/badge/Reference-TakeUForward-orange?style=flat-square)
 
@@ -105,12 +105,12 @@ XX_problem_name/
 
 ---
 
-### 🔗 Linked List — 0 / 6
+### 🔗 Linked List — 2 / 6
 
 | # | Problem | LC # | Difficulty | Solution |
 |---|---------|------|------------|----------|
-| — | Reverse Linked List | [#206](https://leetcode.com/problems/reverse-linked-list/) | 🟢 Easy | ⬜ |
-| — | Linked List Cycle | [#141](https://leetcode.com/problems/linked-list-cycle/) | 🟢 Easy | ⬜ |
+| 41 | [Reverse Linked List](./41_Reverse_a_Linked_List) | [#206](https://leetcode.com/problems/reverse-linked-list/) | 🟢 Easy | ✅ |
+| 42 | [Linked List Cycle](./42_Detect_a_loop_in_Linked_List) | [#141](https://leetcode.com/problems/linked-list-cycle/) | 🟢 Easy | ✅ |
 | — | Merge Two Sorted Lists | [#21](https://leetcode.com/problems/merge-two-sorted-lists/) | 🟢 Easy | ⬜ |
 | — | Remove Nth Node From End of List | [#19](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | 🟡 Medium | ⬜ |
 | — | Reorder List | [#143](https://leetcode.com/problems/reorder-list/) | 🟡 Medium | ⬜ |
@@ -185,12 +185,12 @@ XX_problem_name/
 | Dynamic Programming | 11 | 11 |
 | Graph | 8 | 8 |
 | Interval | 6 | 6 |
-| Linked List | 0 | 6 |
+| Linked List | 2 | 6 |
 | Tree | 0 | 13 |
 | String | 0 | 10 |
 | Matrix | 0 | 4 |
 | Heap | 0 | 3 |
-| **Total** | **40** | **75** |
+| **Total** | **42** | **75** |
 
 ---
 
