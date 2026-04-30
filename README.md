@@ -6,7 +6,7 @@ Each problem is solved with a clear progression from naive to optimal, with full
 
 <br>
 
-![Progress](https://img.shields.io/badge/Solved-43%20%2F%2075-2196F3?style=flat-square)
+![Progress](https://img.shields.io/badge/Solved-44%20%2F%2075-2196F3?style=flat-square)
 ![Language](https://img.shields.io/badge/Language-C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Reference](https://img.shields.io/badge/Reference-TakeUForward-orange?style=flat-square)
 
@@ -105,14 +105,14 @@ XX_problem_name/
 
 ---
 
-### 🔗 Linked List — 3 / 6
+### 🔗 Linked List — 4 / 6
 
 | # | Problem | LC # | Difficulty | Solution |
 |---|---------|------|------------|----------|
 | 41 | [Reverse Linked List](./41_Reverse_a_Linked_List) | [#206](https://leetcode.com/problems/reverse-linked-list/) | 🟢 Easy | ✅ |
 | 42 | [Linked List Cycle](./42_Detect_a_loop_in_Linked_List) | [#141](https://leetcode.com/problems/linked-list-cycle/) | 🟢 Easy | ✅ |
 | 43 | [Merge Two Sorted Lists](./43_Merge_Two_Sorted_Lists) | [#21](https://leetcode.com/problems/merge-two-sorted-lists/) | 🟢 Easy | ✅ |
-| — | Remove Nth Node From End of List | [#19](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | 🟡 Medium | ⬜ |
+| 44 | [Remove Nth Node From End of List](./44_Merge_k_Sorted_Lists) | [#23](https://leetcode.com/problems/merge-k-sorted-lists/description/) | 🟡 Medium | ✅ |
 | — | Reorder List | [#143](https://leetcode.com/problems/reorder-list/) | 🟡 Medium | ⬜ |
 | — | Merge K Sorted Lists | [#23](https://leetcode.com/problems/merge-k-sorted-lists/) | 🔴 Hard | ⬜ |
 
@@ -185,12 +185,12 @@ XX_problem_name/
 | Dynamic Programming | 11 | 11 |
 | Graph | 8 | 8 |
 | Interval | 6 | 6 |
-| Linked List | 3 | 6 |
+| Linked List | 4 | 6 |
 | Tree | 0 | 13 |
 | String | 0 | 10 |
 | Matrix | 0 | 4 |
 | Heap | 0 | 3 |
-| **Total** | **43** | **75** |
+| **Total** | **44** | **75** |
 
 ---
 
