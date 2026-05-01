@@ -113,7 +113,7 @@ XX_problem_name/
 | 42 | [Linked List Cycle](./42_Detect_a_loop_in_Linked_List) | [#141](https://leetcode.com/problems/linked-list-cycle/) | 🟢 Easy | ✅ |
 | 43 | [Merge Two Sorted Lists](./43_Merge_Two_Sorted_Lists) | [#21](https://leetcode.com/problems/merge-two-sorted-lists/) | 🟢 Easy | ✅ |
 | 44 | [Merge K Sorted Lists](./44_Merge_k_Sorted_Lists) | [#23](https://leetcode.com/problems/merge-k-sorted-lists/description/) | 🟡 Medium | ✅ |
-| 45 | [Remove Nth Node From End of List](./44_Merge_k_Sorted_Lists) | [#19](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/) | 🟡 Medium | ✅ |
+| 45 | [Remove Nth Node From End of List](./45_Remove_Nth_node_from_the_end_of_LL) | [#19](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/) | 🟡 Medium | ✅ |
 | — | Reorder List | [#23](https://leetcode.com/problems/merge-k-sorted-lists/) | 🔴 Hard | ⬜ |
 
 ---
