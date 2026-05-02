@@ -6,7 +6,7 @@ Each problem is solved with a clear progression from naive to optimal, with full
 
 <br>
 
-![Progress](https://img.shields.io/badge/Solved-46%20%2F%2075-2196F3?style=flat-square)
+![Progress](https://img.shields.io/badge/Solved-47%20%2F%2075-2196F3?style=flat-square)
 ![Language](https://img.shields.io/badge/Language-C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Reference](https://img.shields.io/badge/Reference-TakeUForward-orange?style=flat-square)
 
@@ -118,11 +118,11 @@ XX_problem_name/
 
 ---
 
-### 🧮 Matrix — 0 / 4
+### 🧮 Matrix — 1 / 4
 
 | # | Problem | LC # | Difficulty | Solution |
 |---|---------|------|------------|----------|
-| — | Set Matrix Zeroes | [#73](https://leetcode.com/problems/set-matrix-zeroes/) | 🟡 Medium | ⬜ |
+| 47 | [Set Matrix Zeroes](./47_Set_Matrix_Zeroes) | [#73](https://leetcode.com/problems/set-matrix-zeroes/description/) | 🟡 Medium | ✅ |
 | — | Spiral Matrix | [#54](https://leetcode.com/problems/spiral-matrix/) | 🟡 Medium | ⬜ |
 | — | Rotate Image | [#48](https://leetcode.com/problems/rotate-image/) | 🟡 Medium | ⬜ |
 | — | Word Search | [#79](https://leetcode.com/problems/word-search/) | 🟡 Medium | ⬜ |
@@ -186,11 +186,11 @@ XX_problem_name/
 | Graph | 8 | 8 |
 | Interval | 6 | 6 |
 | Linked List | 6 | 6 |
-| Matrix | 0 | 4 |
+| Matrix | 1 | 4 |
 | Tree | 0 | 13 |
 | String | 0 | 10 |
 | Heap | 0 | 3 |
-| **Total** | **46** | **75** |
+| **Total** | **47** | **75** |
 
 ---
 
