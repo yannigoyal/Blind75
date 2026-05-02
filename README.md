@@ -118,6 +118,17 @@ XX_problem_name/
 
 ---
 
+### 🧮 Matrix — 0 / 4
+
+| # | Problem | LC # | Difficulty | Solution |
+|---|---------|------|------------|----------|
+| — | Set Matrix Zeroes | [#73](https://leetcode.com/problems/set-matrix-zeroes/) | 🟡 Medium | ⬜ |
+| — | Spiral Matrix | [#54](https://leetcode.com/problems/spiral-matrix/) | 🟡 Medium | ⬜ |
+| — | Rotate Image | [#48](https://leetcode.com/problems/rotate-image/) | 🟡 Medium | ⬜ |
+| — | Word Search | [#79](https://leetcode.com/problems/word-search/) | 🟡 Medium | ⬜ |
+
+---
+
 ### 🌳 Tree — 0 / 13
 
 | # | Problem | LC # | Difficulty | Solution |
@@ -155,17 +166,6 @@ XX_problem_name/
 
 ---
 
-### 🧮 Matrix — 0 / 4
-
-| # | Problem | LC # | Difficulty | Solution |
-|---|---------|------|------------|----------|
-| — | Set Matrix Zeroes | [#73](https://leetcode.com/problems/set-matrix-zeroes/) | 🟡 Medium | ⬜ |
-| — | Spiral Matrix | [#54](https://leetcode.com/problems/spiral-matrix/) | 🟡 Medium | ⬜ |
-| — | Rotate Image | [#48](https://leetcode.com/problems/rotate-image/) | 🟡 Medium | ⬜ |
-| — | Word Search | [#79](https://leetcode.com/problems/word-search/) | 🟡 Medium | ⬜ |
-
----
-
 ### 🗑️ Heap — 0 / 3
 
 | # | Problem | LC # | Difficulty | Solution |
@@ -186,9 +186,9 @@ XX_problem_name/
 | Graph | 8 | 8 |
 | Interval | 6 | 6 |
 | Linked List | 6 | 6 |
+| Matrix | 0 | 4 |
 | Tree | 0 | 13 |
 | String | 0 | 10 |
-| Matrix | 0 | 4 |
 | Heap | 0 | 3 |
 | **Total** | **46** | **75** |
 
