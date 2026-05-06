@@ -6,7 +6,7 @@ Each problem is solved with a clear progression from naive to optimal, with full
 
 <br>
 
-![Progress](https://img.shields.io/badge/Solved-49%20%2F%2075-2196F3?style=flat-square)
+![Progress](https://img.shields.io/badge/Solved-50%20%2F%2075-2196F3?style=flat-square)
 ![Language](https://img.shields.io/badge/Language-C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Reference](https://img.shields.io/badge/Reference-TakeUForward-orange?style=flat-square)
 
@@ -118,14 +118,14 @@ XX_problem_name/
 
 ---
 
-### 🧮 Matrix — 3 / 4
+### 🧮 Matrix — 4 / 4
 
 | # | Problem | LC # | Difficulty | Solution |
 |---|---------|------|------------|----------|
 | 47 | [Set Matrix Zeroes](./47_Set_Matrix_Zeroes) | [#73](https://leetcode.com/problems/set-matrix-zeroes/description/) | 🟡 Medium | ✅ |
 | 48 | [Spiral Matrix](./48_Spiral_Matrix) | [#54](https://leetcode.com/problems/spiral-matrix/description/) | 🟡 Medium | ✅ |
 | 49 | [Rotate Image](./49_Rotate_Image) | [#48](https://leetcode.com/problems/rotate-image/description/) | 🟡 Medium | ✅ |
-| — | Word Search | [#79](https://leetcode.com/problems/word-search/) | 🟡 Medium | ⬜ |
+| 50 | [Word Search](./50_Word_Search) | [#79](https://leetcode.com/problems/word-search/description/) | 🟡 Medium | ✅ |
 
 ---
 
@@ -186,11 +186,11 @@ XX_problem_name/
 | Graph | 8 | 8 |
 | Interval | 6 | 6 |
 | Linked List | 6 | 6 |
-| Matrix | 3 | 4 |
+| Matrix | 4 | 4 |
 | Tree | 0 | 13 |
 | String | 0 | 10 |
 | Heap | 0 | 3 |
-| **Total** | **49** | **75** |
+| **Total** | **50** | **75** |
 
 ---
 
