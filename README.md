@@ -6,7 +6,7 @@ Each problem is solved with a clear progression from naive to optimal, with full
 
 <br>
 
-![Progress](https://img.shields.io/badge/Solved-50%20%2F%2075-2196F3?style=flat-square)
+![Progress](https://img.shields.io/badge/Solved-51%20%2F%2075-2196F3?style=flat-square)
 ![Language](https://img.shields.io/badge/Language-C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Reference](https://img.shields.io/badge/Reference-TakeUForward-orange?style=flat-square)
 
@@ -129,11 +129,11 @@ XX_problem_name/
 
 ---
 
-### 📝 String — 0 / 10
+### 📝 String — 1 / 10
 
 | # | Problem | LC # | Difficulty | Solution |
 |---|---------|------|------------|----------|
-| — | Longest Substring Without Repeating Characters | [#3](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | 🟡 Medium | ⬜ |
+| 51 | [Longest Substring Without Repeating Characters](./51_Longest_Substring_Without_Repeating_Characters) | [#3](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/) | 🟡 Medium | ✅ |
 | — | Longest Repeating Character Replacement | [#424](https://leetcode.com/problems/longest-repeating-character-replacement/) | 🟡 Medium | ⬜ |
 | — | Minimum Window Substring | [#76](https://leetcode.com/problems/minimum-window-substring/) | 🔴 Hard | ⬜ |
 | — | Valid Anagram | [#242](https://leetcode.com/problems/valid-anagram/) | 🟢 Easy | ⬜ |
@@ -187,10 +187,10 @@ XX_problem_name/
 | Interval | 6 | 6 |
 | Linked List | 6 | 6 |
 | Matrix | 4 | 4 |
-| String | 0 | 10 |
+| String | 1 | 10 |
 | Tree | 0 | 13 |
 | Heap | 0 | 3 |
-| **Total** | **50** | **75** |
+| **Total** | **51** | **75** |
 
 ---
 
