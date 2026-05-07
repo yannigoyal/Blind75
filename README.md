@@ -129,6 +129,23 @@ XX_problem_name/
 
 ---
 
+### 📝 String — 0 / 10
+
+| # | Problem | LC # | Difficulty | Solution |
+|---|---------|------|------------|----------|
+| — | Longest Substring Without Repeating Characters | [#3](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | 🟡 Medium | ⬜ |
+| — | Longest Repeating Character Replacement | [#424](https://leetcode.com/problems/longest-repeating-character-replacement/) | 🟡 Medium | ⬜ |
+| — | Minimum Window Substring | [#76](https://leetcode.com/problems/minimum-window-substring/) | 🔴 Hard | ⬜ |
+| — | Valid Anagram | [#242](https://leetcode.com/problems/valid-anagram/) | 🟢 Easy | ⬜ |
+| — | Group Anagrams | [#49](https://leetcode.com/problems/group-anagrams/) | 🟡 Medium | ⬜ |
+| — | Valid Parentheses | [#20](https://leetcode.com/problems/valid-parentheses/) | 🟢 Easy | ⬜ |
+| — | Valid Palindrome | [#125](https://leetcode.com/problems/valid-palindrome/) | 🟢 Easy | ⬜ |
+| — | Longest Palindromic Substring | [#5](https://leetcode.com/problems/longest-palindromic-substring/) | 🟡 Medium | ⬜ |
+| — | Palindromic Substrings | [#647](https://leetcode.com/problems/palindromic-substrings/) | 🟡 Medium | ⬜ |
+| — | Encode and Decode Strings | [#271](https://leetcode.com/problems/encode-and-decode-strings/) | 🟡 Medium | ⬜ |
+
+---
+
 ### 🌳 Tree — 0 / 13
 
 | # | Problem | LC # | Difficulty | Solution |
@@ -146,23 +163,6 @@ XX_problem_name/
 | — | Word Search II | [#212](https://leetcode.com/problems/word-search-ii/) | 🔴 Hard | ⬜ |
 | — | Binary Tree Maximum Path Sum | [#124](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | 🔴 Hard | ⬜ |
 | — | Serialize and Deserialize Binary Tree | [#297](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | 🔴 Hard | ⬜ |
-
----
-
-### 📝 String — 0 / 10
-
-| # | Problem | LC # | Difficulty | Solution |
-|---|---------|------|------------|----------|
-| — | Longest Substring Without Repeating Characters | [#3](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | 🟡 Medium | ⬜ |
-| — | Longest Repeating Character Replacement | [#424](https://leetcode.com/problems/longest-repeating-character-replacement/) | 🟡 Medium | ⬜ |
-| — | Minimum Window Substring | [#76](https://leetcode.com/problems/minimum-window-substring/) | 🔴 Hard | ⬜ |
-| — | Valid Anagram | [#242](https://leetcode.com/problems/valid-anagram/) | 🟢 Easy | ⬜ |
-| — | Group Anagrams | [#49](https://leetcode.com/problems/group-anagrams/) | 🟡 Medium | ⬜ |
-| — | Valid Parentheses | [#20](https://leetcode.com/problems/valid-parentheses/) | 🟢 Easy | ⬜ |
-| — | Valid Palindrome | [#125](https://leetcode.com/problems/valid-palindrome/) | 🟢 Easy | ⬜ |
-| — | Longest Palindromic Substring | [#5](https://leetcode.com/problems/longest-palindromic-substring/) | 🟡 Medium | ⬜ |
-| — | Palindromic Substrings | [#647](https://leetcode.com/problems/palindromic-substrings/) | 🟡 Medium | ⬜ |
-| — | Encode and Decode Strings | [#271](https://leetcode.com/problems/encode-and-decode-strings/) | 🟡 Medium | ⬜ |
 
 ---
 
@@ -187,8 +187,8 @@ XX_problem_name/
 | Interval | 6 | 6 |
 | Linked List | 6 | 6 |
 | Matrix | 4 | 4 |
-| Tree | 0 | 13 |
 | String | 0 | 10 |
+| Tree | 0 | 13 |
 | Heap | 0 | 3 |
 | **Total** | **50** | **75** |
 
