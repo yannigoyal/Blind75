@@ -6,7 +6,7 @@ Each problem is solved with a clear progression from naive to optimal, with full
 
 <br>
 
-![Progress](https://img.shields.io/badge/Solved-54%20%2F%2075-2196F3?style=flat-square)
+![Progress](https://img.shields.io/badge/Solved-55%20%2F%2075-2196F3?style=flat-square)
 ![Language](https://img.shields.io/badge/Language-C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Reference](https://img.shields.io/badge/Reference-TakeUForward-orange?style=flat-square)
 
@@ -129,7 +129,7 @@ XX_problem_name/
 
 ---
 
-### 📝 String — 4 / 10
+### 📝 String — 5 / 10
 
 | # | Problem | LC # | Difficulty | Solution |
 |---|---------|------|------------|----------|
@@ -137,7 +137,7 @@ XX_problem_name/
 | 52 | [Longest Repeating Character Replacement](./52_Longest_Repeating_Character_Replacement) | [#424](https://leetcode.com/problems/longest-repeating-character-replacement/description/) | 🟡 Medium | ✅ |
 | 53 | [Minimum Window Substring](./53_Minimum_Window_Substring) | [#76](https://leetcode.com/problems/minimum-window-substring/description/) | 🔴 Hard | ✅ |
 | 54 | [Valid Anagram](./54_Valid_Anagram) | [#242](https://leetcode.com/problems/valid-anagram/description/) | 🟢 Easy | ✅ |
-| — | Group Anagrams | [#49](https://leetcode.com/problems/group-anagrams/) | 🟡 Medium | ⬜ |
+| 55 | [Group Anagrams](./55_Group_Anagrams) | [#49](https://leetcode.com/problems/group-anagrams/description/) | 🟡 Medium | ✅ |
 | — | Valid Parentheses | [#20](https://leetcode.com/problems/valid-parentheses/) | 🟢 Easy | ⬜ |
 | — | Valid Palindrome | [#125](https://leetcode.com/problems/valid-palindrome/) | 🟢 Easy | ⬜ |
 | — | Longest Palindromic Substring | [#5](https://leetcode.com/problems/longest-palindromic-substring/) | 🟡 Medium | ⬜ |
@@ -187,10 +187,10 @@ XX_problem_name/
 | Interval | 6 | 6 |
 | Linked List | 6 | 6 |
 | Matrix | 4 | 4 |
-| String | 4 | 10 |
+| String | 5 | 10 |
 | Tree | 0 | 13 |
 | Heap | 0 | 3 |
-| **Total** | **54** | **75** |
+| **Total** | **55** | **75** |
 
 ---
 
