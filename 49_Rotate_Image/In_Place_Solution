@@ -1,14 +1,13 @@
 /*
-Rotate matrix 90° clockwise in-place:
-
-Step 1: Transpose the matrix (swap across the diagonal)
-- Convert rows into columns
-
-Step 2: Reverse each row
-- This gives the final rotated matrix
-
-TC: O(n^2)
-SC: O(1)
+    Rotate matrix 90° clockwise in-place:
+    
+    Step 1: Transpose the matrix (swap across the diagonal)
+        - Convert rows into columns
+    Step 2: Reverse each row
+    - This gives the final rotated matrix
+    
+    TC: O(n^2)
+    SC: O(1)
 */
 
 void rotate(vector<vector<int>>& matrix) {
