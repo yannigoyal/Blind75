@@ -6,7 +6,7 @@ Each problem is solved with a clear progression from naive to optimal, with full
 
 <br>
 
-![Progress](https://img.shields.io/badge/Solved-57%20%2F%2075-2196F3?style=flat-square)
+![Progress](https://img.shields.io/badge/Solved-58%20%2F%2075-2196F3?style=flat-square)
 ![Language](https://img.shields.io/badge/Language-C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Reference](https://img.shields.io/badge/Reference-TakeUForward-orange?style=flat-square)
 
@@ -129,7 +129,7 @@ XX_problem_name/
 
 ---
 
-### 📝 String — 7 / 10
+### 📝 String — 8 / 10
 
 | # | Problem | LC # | Difficulty | Solution |
 |---|---------|------|------------|----------|
@@ -140,7 +140,7 @@ XX_problem_name/
 | 55 | [Group Anagrams](./55_Group_Anagrams) | [#49](https://leetcode.com/problems/group-anagrams/description/) | 🟡 Medium | ✅ |
 | 56 | [Valid Parentheses](./56_Valid_Parentheses) | [#20](https://leetcode.com/problems/valid-parentheses/description/) | 🟢 Easy | ✅ |
 | 57 | [Valid Palindrome](./57_Valid_Palindrome) | [#9](https://leetcode.com/problems/valid-palindrome/description/) | 🟢 Easy | ✅ |
-| — | Longest Palindromic Substring | [#5](https://leetcode.com/problems/longest-palindromic-substring/) | 🟡 Medium | ⬜ |
+| 58 | [Longest Palindromic Substring](./58_Longest_Palindromic_Substring) | [#5](https://leetcode.com/problems/longest-palindromic-substring/description/) | 🟡 Medium | ✅ |
 | — | Palindromic Substrings | [#647](https://leetcode.com/problems/palindromic-substrings/) | 🟡 Medium | ⬜ |
 | — | Encode and Decode Strings | [#271](https://leetcode.com/problems/encode-and-decode-strings/) | 🟡 Medium | ⬜ |
 
@@ -187,10 +187,10 @@ XX_problem_name/
 | Interval | 6 | 6 |
 | Linked List | 6 | 6 |
 | Matrix | 4 | 4 |
-| String | 7 | 10 |
+| String | 8 | 10 |
 | Tree | 0 | 13 |
 | Heap | 0 | 3 |
-| **Total** | **57** | **75** |
+| **Total** | **58** | **75** |
 
 ---
 
