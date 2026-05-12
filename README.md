@@ -166,13 +166,12 @@ XX_problem_name/
 
 ---
 
-### 🗑️ Heap — 0 / 3
+### 🗑️ Heap — 0 / 2
 
 | # | Problem | LC # | Difficulty | Solution |
 |---|---------|------|------------|----------|
 | — | Top K Frequent Elements | [#347](https://leetcode.com/problems/top-k-frequent-elements/) | 🟡 Medium | ⬜ |
 | — | Find Median from Data Stream | [#295](https://leetcode.com/problems/find-median-from-data-stream/) | 🔴 Hard | ⬜ |
-| — | Merge K Sorted Lists | [#23](https://leetcode.com/problems/merge-k-sorted-lists/) | 🔴 Hard | ⬜ |
 
 ---
 
@@ -189,7 +188,7 @@ XX_problem_name/
 | Matrix | 4 | 4 |
 | String | 10 | 10 |
 | Tree | 0 | 13 |
-| Heap | 0 | 3 |
+| Heap | 0 | 2 |
 | **Total** | **60** | **75** |
 
 ---
