@@ -6,7 +6,7 @@ Each problem is solved with a clear progression from naive to optimal, with full
 
 <br>
 
-![Progress](https://img.shields.io/badge/Solved-61%20%2F%2075-2196F3?style=flat-square)
+![Progress](https://img.shields.io/badge/Solved-62%20%2F%2075-2196F3?style=flat-square)
 ![Language](https://img.shields.io/badge/Language-C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Reference](https://img.shields.io/badge/Reference-TakeUForward-orange?style=flat-square)
 
@@ -146,12 +146,12 @@ XX_problem_name/
 
 ---
 
-### 🌳 Tree — 1 / 13
+### 🌳 Tree — 2 / 13
 
 | # | Problem | LC # | Difficulty | Solution |
 |---|---------|------|------------|----------|
 | 61 | [Maximum Depth of Binary Tree](./61_Maximum_Depth_of_Binary_Tree) | [#104](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/) | 🟢 Easy | ✅ |
-| — | Same Tree | [#100](https://leetcode.com/problems/same-tree/) | 🟢 Easy | ⬜ |
+| 62 | [Same Tree](./62_Same_Tree) | [#100](https://leetcode.com/problems/same-tree/description/) | 🟢 Easy | ✅ |
 | — | Invert Binary Tree | [#226](https://leetcode.com/problems/invert-binary-tree/) | 🟢 Easy | ⬜ |
 | — | Subtree of Another Tree | [#572](https://leetcode.com/problems/subtree-of-another-tree/) | 🟢 Easy | ⬜ |
 | — | Lowest Common Ancestor of BST | [#235](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | 🟡 Medium | ⬜ |
@@ -187,9 +187,9 @@ XX_problem_name/
 | Linked List | 6 | 6 |
 | Matrix | 4 | 4 |
 | String | 10 | 10 |
-| Tree | 1 | 13 |
+| Tree | 2 | 13 |
 | Heap | 0 | 2 |
-| **Total** | **61** | **75** |
+| **Total** | **62** | **75** |
 
 ---
 
