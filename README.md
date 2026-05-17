@@ -139,7 +139,7 @@ XX_problem_name/
 | 54 | [Valid Anagram](./54_Valid_Anagram) | [#242](https://leetcode.com/problems/valid-anagram/description/) | 🟢 Easy | ✅ |
 | 55 | [Group Anagrams](./55_Group_Anagrams) | [#49](https://leetcode.com/problems/group-anagrams/description/) | 🟡 Medium | ✅ |
 | 56 | [Valid Parentheses](./56_Valid_Parentheses) | [#20](https://leetcode.com/problems/valid-parentheses/description/) | 🟢 Easy | ✅ |
-| 57 | [Valid Palindrome](./57_Valid_Palindrome) | [#9](https://leetcode.com/problems/valid-palindrome/description/) | 🟢 Easy | ✅ |
+| 57 | [Valid Palindrome](./57_Valid_Palindrome) | [#9](https://leetcode.com/problems/palindrome-number/description/) | 🟢 Easy | ✅ |
 | 58 | [Longest Palindromic Substring](./58_Longest_Palindromic_Substring) | [#5](https://leetcode.com/problems/longest-palindromic-substring/description/) | 🟡 Medium | ✅ |
 | 59 | [Palindromic Substrings](./59_Palindromic_Substrings) | [#647](https://leetcode.com/problems/palindromic-substrings/description/) | 🟡 Medium | ✅ |
 | 60 | [Encode and Decode Strings](./60_Encode_and_Decode_Strings) | [#271](https://leetcode.com/problems/encode-and-decode-strings/description/) | 🟡 Medium | ✅ |
