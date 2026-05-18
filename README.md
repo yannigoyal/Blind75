@@ -6,7 +6,7 @@ Each problem is solved with a clear progression from naive to optimal, with full
 
 <br>
 
-![Progress](https://img.shields.io/badge/Solved-64%20%2F%2075-2196F3?style=flat-square)
+![Progress](https://img.shields.io/badge/Solved-65%20%2F%2075-2196F3?style=flat-square)
 ![Language](https://img.shields.io/badge/Language-C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Reference](https://img.shields.io/badge/Reference-TakeUForward-orange?style=flat-square)
 
@@ -146,7 +146,7 @@ XX_problem_name/
 
 ---
 
-### 🌳 Tree — 4 / 13
+### 🌳 Tree — 5 / 13
 
 | # | Problem | LC # | Difficulty | Solution |
 |---|---------|------|------------|----------|
@@ -154,15 +154,15 @@ XX_problem_name/
 | 62 | [Same Tree](./62_Same_Tree) | [#100](https://leetcode.com/problems/same-tree/description/) | 🟢 Easy | ✅ |
 | 63 | [Invert Binary Tree](./63_Invert_Binary_Tree) | [#226](https://leetcode.com/problems/invert-binary-tree/description/) | 🟢 Easy | ✅ |
 | 64 | [Binary Tree Maximum Path Sum](./64_Binary_Tree_Maximum_Path_Sum) | [#124](https://leetcode.com/problems/binary-tree-maximum-path-sum/description/) | 🔴 Hard | ✅ |
-| — | Lowest Common Ancestor of BST | [#235](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | 🟡 Medium | ⬜ |
-| — | Binary Tree Level Order Traversal | [#102](https://leetcode.com/problems/binary-tree-level-order-traversal/) | 🟡 Medium | ⬜ |
+| 65 | [Binary Tree Level Order Traversal](./65_Binary_Tree_Level_Order_Traversal) | [#102](https://leetcode.com/problems/binary-tree-level-order-traversal/description/) | 🟡 Medium | ✅ |
+| — | Serialize and Deserialize Binary Tree | [#297](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | 🔴 Hard | ⬜ |
+| — | Subtree of Another Tree | [#572](https://leetcode.com/problems/subtree-of-another-tree/) | 🟢 Easy | ⬜ |
+| — | Construct BST from Preorder Traversal | [#1008](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/) | 🟡 Medium | ⬜ |
 | — | Validate Binary Search Tree | [#98](https://leetcode.com/problems/validate-binary-search-tree/) | 🟡 Medium | ⬜ |
 | — | Kth Smallest in BST | [#230](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | 🟡 Medium | ⬜ |
-| — | Construct BST from Preorder Traversal | [#1008](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/) | 🟡 Medium | ⬜ |
-| — | Design Add and Search Words | [#211](https://leetcode.com/problems/design-add-and-search-words-data-structure/) | 🟡 Medium | ⬜ |
+| — | Lowest Common Ancestor of BST | [#235](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | 🟡 Medium | ⬜ |
+| — | Implement Trie (Prefix Tree) | [#208](https://leetcode.com/problems/implement-trie-prefix-tree/description/) | 🟡 Medium | ⬜ |
 | — | Word Search II | [#212](https://leetcode.com/problems/word-search-ii/) | 🔴 Hard | ⬜ |
-| — | Subtree of Another Tree | [#572](https://leetcode.com/problems/subtree-of-another-tree/) | 🟢 Easy | ⬜ |
-| — | Serialize and Deserialize Binary Tree | [#297](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | 🔴 Hard | ⬜ |
 
 ---
 
@@ -187,9 +187,9 @@ XX_problem_name/
 | Linked List | 6 | 6 |
 | Matrix | 4 | 4 |
 | String | 10 | 10 |
-| Tree | 4 | 13 |
+| Tree | 5 | 13 |
 | Heap | 0 | 2 |
-| **Total** | **64** | **75** |
+| **Total** | **65** | **75** |
 
 ---
 
