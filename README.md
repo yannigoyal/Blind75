@@ -142,7 +142,7 @@ XX_problem_name/
 | 57 | [Valid Palindrome](./57_Valid_Palindrome) | [#9](https://leetcode.com/problems/palindrome-number/description/) | 🟢 Easy | ✅ |
 | 58 | [Longest Palindromic Substring](./58_Longest_Palindromic_Substring) | [#5](https://leetcode.com/problems/longest-palindromic-substring/description/) | 🟡 Medium | ✅ |
 | 59 | [Palindromic Substrings](./59_Palindromic_Substrings) | [#647](https://leetcode.com/problems/palindromic-substrings/description/) | 🟡 Medium | ✅ |
-| 60 | [Encode and Decode Strings](./60_Encode_and_Decode_Strings) | [#271](https://leetcode.com/problems/encode-and-decode-strings/description/) | 🟡 Medium | ✅ |
+| 60 | [Encode and Decode Strings](./60_Encode_and_Decode_Strings) | [#271](https://www.geeksforgeeks.org/problems/encode-and-decode-strings/1) | 🟡 Medium | ✅ |
 
 ---
 
