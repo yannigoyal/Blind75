@@ -6,7 +6,7 @@ Each problem is solved with a clear progression from naive to optimal, with full
 
 <br>
 
-![Progress](https://img.shields.io/badge/Solved-65%20%2F%2075-2196F3?style=flat-square)
+![Progress](https://img.shields.io/badge/Solved-66%20%2F%2075-2196F3?style=flat-square)
 ![Language](https://img.shields.io/badge/Language-C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Reference](https://img.shields.io/badge/Reference-TakeUForward-orange?style=flat-square)
 
@@ -146,7 +146,7 @@ XX_problem_name/
 
 ---
 
-### 🌳 Tree — 5 / 13
+### 🌳 Tree — 6 / 13
 
 | # | Problem | LC # | Difficulty | Solution |
 |---|---------|------|------------|----------|
@@ -155,7 +155,7 @@ XX_problem_name/
 | 63 | [Invert Binary Tree](./63_Invert_Binary_Tree) | [#226](https://leetcode.com/problems/invert-binary-tree/description/) | 🟢 Easy | ✅ |
 | 64 | [Binary Tree Maximum Path Sum](./64_Binary_Tree_Maximum_Path_Sum) | [#124](https://leetcode.com/problems/binary-tree-maximum-path-sum/description/) | 🔴 Hard | ✅ |
 | 65 | [Binary Tree Level Order Traversal](./65_Binary_Tree_Level_Order_Traversal) | [#102](https://leetcode.com/problems/binary-tree-level-order-traversal/description/) | 🟡 Medium | ✅ |
-| — | Serialize and Deserialize Binary Tree | [#297](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | 🔴 Hard | ⬜ |
+| 66 | [Serialize and Deserialize Binary Tree](./66_Serialize_and_Deserialize_Binary_Tree) | [#297](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/description/) | 🔴 Hard | ✅ |
 | — | Subtree of Another Tree | [#572](https://leetcode.com/problems/subtree-of-another-tree/) | 🟢 Easy | ⬜ |
 | — | Construct BST from Preorder Traversal | [#1008](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/) | 🟡 Medium | ⬜ |
 | — | Validate Binary Search Tree | [#98](https://leetcode.com/problems/validate-binary-search-tree/) | 🟡 Medium | ⬜ |
@@ -187,9 +187,9 @@ XX_problem_name/
 | Linked List | 6 | 6 |
 | Matrix | 4 | 4 |
 | String | 10 | 10 |
-| Tree | 5 | 13 |
+| Tree | 6 | 13 |
 | Heap | 0 | 2 |
-| **Total** | **65** | **75** |
+| **Total** | **66** | **75** |
 
 ---
 
