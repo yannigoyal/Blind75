@@ -6,7 +6,7 @@ Each problem is solved with a clear progression from naive to optimal, with full
 
 <br>
 
-![Progress](https://img.shields.io/badge/Solved-66%20%2F%2075-2196F3?style=flat-square)
+![Progress](https://img.shields.io/badge/Solved-67%20%2F%2075-2196F3?style=flat-square)
 ![Language](https://img.shields.io/badge/Language-C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Reference](https://img.shields.io/badge/Reference-TakeUForward-orange?style=flat-square)
 
@@ -156,7 +156,7 @@ XX_problem_name/
 | 64 | [Binary Tree Maximum Path Sum](./64_Binary_Tree_Maximum_Path_Sum) | [#124](https://leetcode.com/problems/binary-tree-maximum-path-sum/description/) | 🔴 Hard | ✅ |
 | 65 | [Binary Tree Level Order Traversal](./65_Binary_Tree_Level_Order_Traversal) | [#102](https://leetcode.com/problems/binary-tree-level-order-traversal/description/) | 🟡 Medium | ✅ |
 | 66 | [Serialize and Deserialize Binary Tree](./66_Serialize_and_Deserialize_Binary_Tree) | [#297](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/description/) | 🔴 Hard | ✅ |
-| 66 | [Subtree of Another Tree](./67_Subtree_of_Another_Tree) | [#572](https://leetcode.com/problems/subtree-of-another-tree/description/) | 🟢 Easy | ✅ |
+| 67 | [Subtree of Another Tree](./67_Subtree_of_Another_Tree) | [#572](https://leetcode.com/problems/subtree-of-another-tree/description/) | 🟢 Easy | ✅ |
 | — | Construct BST from Preorder Traversal | [#1008](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/) | 🟡 Medium | ⬜ |
 | — | Validate Binary Search Tree | [#98](https://leetcode.com/problems/validate-binary-search-tree/) | 🟡 Medium | ⬜ |
 | — | Kth Smallest in BST | [#230](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | 🟡 Medium | ⬜ |
@@ -189,7 +189,7 @@ XX_problem_name/
 | String | 10 | 10 |
 | Tree | 7 | 13 |
 | Heap | 0 | 2 |
-| **Total** | **66** | **75** |
+| **Total** | **67** | **75** |
 
 ---
 
